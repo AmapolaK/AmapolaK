@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello World 👋
+Im Amapola, a redundant writter of this text, 
+i just write here becausa i hate a shorts texts.
+* I´m currenly looking for work 🫖
+* other text interactions in your eyes 🕳️
+* Filler text 📌
+* And emoji agregates 😊
 
+
+......Artificial Footer......
 <!--
 **AmapolaK/AmapolaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
